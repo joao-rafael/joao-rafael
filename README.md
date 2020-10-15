@@ -8,6 +8,3 @@ I'm a senior CS Student with some repositories.
 - 💬 Ask me about webdev or flutter xD
 - 📫 If you want to reach me, send an e-mail to: joaorafael.dev@outlook.com
 
-### If you're from shopify, pls see: 
-[the-shoppies repository](https://github.com/joao-rafael/the-shoppies)
-<br>
