@@ -2,7 +2,6 @@
 
 I'm a senior CS Student with some repositories. 
 
-- 🔭 I’m currently a part-time intern at [BRZ Digital Experience](https://brz.digital/)
 - 🌱 I’m currently learning React.js and React Native
 - 👯 I’m still learning how to colaborate to open-source projects
 - 💬 Ask me about webdev or flutter xD
