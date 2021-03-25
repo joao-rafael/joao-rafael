@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a senior CS Student with some repositories. 
+I'm a masters CS Student with some repositories. 
 
 - 🌱 I’m currently learning Kotlin and React Native
 - 👯 I’m still learning how to colaborate to open-source projects
