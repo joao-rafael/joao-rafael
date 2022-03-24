@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a web dev at [Sidia](https://www.sidia.com/) a part-time masters CS Student with some repositories. 
+I'm a web dev at [Sidia](https://www.sidia.com/) and a part-time masters CS Student with some repositories. 
 
 - 🌱 I’m currently learning Android with Koltin and Angular
 - 👯 I’m still learning how to colaborate to open-source projects
