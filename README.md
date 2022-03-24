@@ -6,4 +6,4 @@ I'm a web dev at [Sidia](https://www.sidia.com/) a part-time masters CS Student 
 - 👯 I’m still learning how to colaborate to open-source projects
 - 💬 Ask me about webdev, angular, typescript or Android
 - 📫 If you want to reach me, send an e-mail to: joaorafael.dev@outlook.com
-- 🌐 My blog: [afael.codes](https://rafael.codes)
+- 🌐 My blog: [rafaels.codes](https://rafaels.codes)
