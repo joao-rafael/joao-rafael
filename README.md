@@ -2,7 +2,7 @@
 
 I'm a software engineer from 🇧🇷 <br>
 
-Currently, I work as a mid-level software engineer at [Localiza&Co](https://www.localizaco.com);
+Currently, I work as a mid-level software engineer at Itaú Unibanco (Via Zup Innovation, Itaú's Tech company);
 
 - 🌱 I work mainly with web and mobile development using Angular, Typescript, Flutter and Node.js;
 - 💬 Ask me about webdev, angular, typescript or Human Factors in computing systems;
