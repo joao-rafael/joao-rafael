@@ -18,7 +18,6 @@ I'm João, a **Software Engineer** from **Brazil** 🇧🇷, passionate about bu
 
 ### 📫 Let's Connect  
 Want to talk tech or collaborate? Feel free to reach out:  
-📧 [joaorafael.dev@outlook.com](mailto:joaorafael.dev@outlook.com)  
 📧 [joao.rafael@academico.ufpb.br](mailto:joao.rafael@academico.ufpb.br)  
 
 Let’s build something amazing together! 🚀
