@@ -1,9 +1,24 @@
-### Hello World 👋
+# Hello, World! 👋  
 
-I'm a software engineer from 🇧🇷 <br>
+I'm João, a **Software Engineer** from **Brazil** 🇧🇷, passionate about building user-friendly web and mobile applications.  
 
-Currently, I work as a mid-level software engineer at Latin America's biggest bank: Itaú Unibanco (Via Zup Innovation, Itaú's Tech company);
+💻 Currently, I work as a **Mid-Level Software Engineer** at **Itaú Unibanco**, Latin America's largest bank, via Zup Innovation, Itaú's tech powerhouse..  
 
-- 🌱 I work mainly with web and mobile development using Angular, Typescript, Flutter and Node.js;
-- 💬 Ask me about webdev, angular, typescript or Human Factors in computing systems;
-- 📫 If you want to reach me, send an e-mail to: joaorafael.dev@outlook.com or joao.rafael@academico.ufpb.br
+### 🚀 About Me  
+- 🔧 **What I do:**  
+   Web and mobile development with **Angular**, **TypeScript**, **Flutter**, and **Node.js**.  
+
+- 🧠 **Passionate about:**  
+   Human Factors in Computing Systems and creating seamless user experiences.  
+
+### 🛠️ Tech Stack  
+- **Web:** HTML, CSS, JavaScript, **TypeScript**, **Angular**, **React** 
+- **Mobile:** Dart, Flutter, React Native  
+
+
+### 📫 Let's Connect  
+Want to talk tech or collaborate? Feel free to reach out:  
+📧 [joaorafael.dev@outlook.com](mailto:joaorafael.dev@outlook.com)  
+📧 [joao.rafael@academico.ufpb.br](mailto:joao.rafael@academico.ufpb.br)  
+
+Let’s build something amazing together! 🚀
