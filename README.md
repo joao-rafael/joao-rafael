@@ -2,7 +2,7 @@
 
 I'm João, a **Software Engineer** from **Brazil** 🇧🇷, passionate about building user-friendly web and mobile applications.  
 
-💻 Currently, I work as a **Mid-Level Software Engineer** at **Itaú Unibanco**, Latin America's largest bank, via Zup Innovation, Itaú's tech powerhouse..  
+💻 Currently, I work as a **Mid-Level Software Engineer** at **Itaú Unibanco**, Latin America's largest bank, via Zup Innovation, Itaú's tech powerhouse.  
 
 ### 🚀 About Me  
 - 🔧 **What I do:**  
