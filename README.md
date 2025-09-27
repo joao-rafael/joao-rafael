@@ -6,7 +6,7 @@ I'm João, a **Software Engineer** from **Brazil** 🇧🇷, passionate about bu
 
 ### 🚀 About Me  
 - 🔧 **What I do:**  
-   Web and mobile development with **Angular**, **TypeScript**, **Flutter**, and **Node.js**.  
+   Web and mobile development with **Angular**, **React**, **TypeScript**, **Flutter**, and **Node.js**.  
 
 - 🧠 **Passionate about:**  
    Human Factors in Computing Systems and creating seamless user experiences.  
