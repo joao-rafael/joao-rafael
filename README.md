@@ -36,10 +36,9 @@
 
 ---
 
-### 📊 GitHub Analytics  
+### Github Language Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-rafael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-rafael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -54,5 +53,5 @@
 </p>
 
 <p>
-  ✨ Let’s build something amazing together! 🚀
+  <b>✨ Let’s build something amazing together! 🚀</b>
 </p>
