@@ -2,7 +2,7 @@
 
 I'm João, a **Software Engineer** from **Brazil** 🇧🇷, passionate about building user-friendly web and mobile applications.  
 
-💻 Currently, I work as a **Senior-Level Software Engineer** at **ADP**, Latin America's largest bank, via Zallpy. 
+💻 Currently, I work as a **Senior-Level Software Engineer** at **ADP**, via Zallpy. 
 
 ### 🚀 About Me  
 - 🔧 **What I do:**  
