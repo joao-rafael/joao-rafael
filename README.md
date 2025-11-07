@@ -7,18 +7,14 @@
   🚀 Building modern web and mobile experiences
 </p>
 
----
-
 ### 🧠 About Me  
 
 - 🔧 **What I do:**  
   Front-End (Web and Mobile) development using **Stencil**, **Angular**, **React**, **TypeScript**, **Flutter**, and **Node.js**.  
 
 - ❤️ **Passionate about:**  
-  Human Factors in Computing Systems and crafting seamless user experiences.  
-
----
-
+  Human Factors in Computing Systems and crafting seamless user experiences.
+  
 ### 🛠️ Tech Stack  
 
 **Frontend**  
@@ -33,16 +29,6 @@
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-### Github Language Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-rafael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect  
 
